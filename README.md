@@ -10,12 +10,19 @@ I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics 
      <a target="_blank" href="https://www.linkedin.com/in/vidita-agrawal-ba4aa1195">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a> 
-
+  
    <a target="_blank" href="mailto:viditaagrawal77@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
   
-- 💬 Tried Hands on :
+  
+  
+  
+  
+- 💬 Languages and Tools:
+     
+     
+     
      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
