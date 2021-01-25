@@ -5,7 +5,8 @@ I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics 
 - 🔭 I’m currently working on App development with hands on Rails and Flutter in collaboration with iPixelate
 - 👯 I’m looking to collaborate on software development projects preferably with Django,Laravel,Flutter,and Rails
 - 📫 Reach me out for further conversation exchange:
-       <a target="_blank" href="https://www.linkedin.com/in/vidita-agrawal-ba4aa1195">
+   
+     <a target="_blank" href="https://www.linkedin.com/in/vidita-agrawal-ba4aa1195">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a> 
 
