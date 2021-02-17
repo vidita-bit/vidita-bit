@@ -1,6 +1,7 @@
 ### Hey , I'm Vidita!
 
-About Me 
+About Me:
+
 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics and Communication Engineering.
 - 🔭 I’m currently working as Flutter Developer Intern with hands on Rails and Flutter in collaboration with iPixelate
 - 👯 I’m looking to collaborate on software development projects preferably with Django,Laravel,Flutter,and Rails
