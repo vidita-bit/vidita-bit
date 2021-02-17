@@ -1,6 +1,6 @@
-### Hey , I'm Vidita!
+### Hey :wave:, I'm Vidita!
 
-About Me:
+About Me :boom: :
 
 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics and Communication Engineering.
 - 🔭 I’m currently working as Flutter Developer Intern with hands on Rails and Flutter in collaboration with iPixelate
