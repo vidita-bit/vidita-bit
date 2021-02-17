@@ -1,4 +1,4 @@
-### Hey :wave:, I'm Vidita!
+### Hey <img height="25" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif">, I'm Vidita!
 
 About Me :boom: :
 
