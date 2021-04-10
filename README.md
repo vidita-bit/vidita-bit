@@ -3,9 +3,9 @@
 About Me :boom: :
 
 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics and Communication Engineering.
-- 🔭 I’m currently working as Flutter Developer Intern with hands on Rails and Flutter in collaboration with iPixelate
+- 🔭 I’m currently working as App Developer Intern with hands on Rails and Flutter in collaboration with iPixelate
 - 👯 I’m looking to collaborate on software development projects preferably with Django,Laravel,Flutter,and Rails
-- 🌱 Developer at  The Creator Home
+- 🌱 Intern at  IPixelate
 - 📫 Reach me out for further conversation exchange:
    
      <a target="_blank" href="https://www.linkedin.com/in/vidita-agrawal-ba4aa1195">
@@ -25,6 +25,7 @@ I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics 
      
      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
