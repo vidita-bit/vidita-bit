@@ -6,7 +6,7 @@ I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics 
 - 🔭 I’m currently working as Mobile App Developer Intern using Tech Stack  Flutter in collaboration with DGTLmart.
 - 🔭 I have previously worked as App Developer Intern with hands on Rails and Flutter in collaboration with iPixelate.
 - 👯 I’m looking to collaborate on software development projects preferably with Django,Laravel,Flutter,and Rails.
-- 🌱 Intern at  IPixelate
+- 🌱 Intern at  DGTLmart
 - 📫 Reach me out for further conversation exchange:
    
      <a target="_blank" href="https://www.linkedin.com/in/vidita-agrawal-ba4aa1195">
