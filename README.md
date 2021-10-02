@@ -3,10 +3,16 @@
 About Me :boom: :
 
 I’m an Open-Source enthusiast & pursuing my Bachelors in Electronics and Communication Engineering.
-- 🔭 I’m currently working as Mobile App Developer Intern using Tech Stack  Flutter in collaboration with DGTLmart.
-- 🔭 I have previously worked as App Developer Intern with hands on Rails and Flutter in collaboration with iPixelate.
+- 🔭 I’m a Flutter developer.
+- 🔭 I have previously worked as App Developer Intern with hands on Rails and Flutter.
 - 👯 I’m looking to collaborate on software development projects preferably with Django,Laravel,Flutter,and Rails.
-- 🌱 Intern at  DGTLmart
+ 
+     
+     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vidita-bit&theme=dracula" /> <br><br>
+     <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=vidita-bit&layout=compact&theme=dracula&count_private=true&langs_count=10" />
+
+   <br>
+
 - 📫 Reach me out for further conversation exchange:
    
      <a target="_blank" href="https://www.linkedin.com/in/vidita-agrawal-ba4aa1195">
@@ -16,9 +22,6 @@ I’m an Open-Source enthusiast & pursuing my Bachelors in Electronics and Commu
      <a target="_blank" href="mailto:viditaagrawal77@gmail.com">
      <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
      </a>.
-  
-  
-  
   
  - 💬 Languages and Tools:
      
