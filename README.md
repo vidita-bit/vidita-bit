@@ -2,7 +2,7 @@
 
 About Me :boom: :
 
-I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics and Communication Engineering.
+I’m an Open-Source enthusiast & pursuing my Bachelors in Electronics and Communication Engineering.
 - 🔭 I’m currently working as Mobile App Developer Intern using Tech Stack  Flutter in collaboration with DGTLmart.
 - 🔭 I have previously worked as App Developer Intern with hands on Rails and Flutter in collaboration with iPixelate.
 - 👯 I’m looking to collaborate on software development projects preferably with Django,Laravel,Flutter,and Rails.
