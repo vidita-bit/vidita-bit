@@ -9,7 +9,7 @@ I’m an Open-Source enthusiast & pursuing my Bachelors in Electronics and Commu
  
      
      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vidita-bit&theme=dracula" /> <br><br>
-     <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=vidita-bit&layout=compact&theme=dracula&count_private=true&langs_count=10" />
+<!--      <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=vidita-bit&layout=compact&theme=dracula&count_private=true&langs_count=10" /> -->
 
    <br>
 
