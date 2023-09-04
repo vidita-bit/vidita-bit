@@ -2,14 +2,14 @@
 
 About Me :boom: :
 
-I’m an Open-Source enthusiast & pursuing my Bachelors in Electronics and Communication Engineering.
-- 🔭 I’m a Flutter developer.
-- 🔭 I have previously worked as App Developer Intern with hands on Rails and Flutter.
-- 👯 I’m looking to collaborate on software development projects preferably with Django,Laravel,Flutter,and Rails.
+Highly skilled and motivated entry-level software engineer with expertise in SQL databases, Rest APIs, and a strong background in data structures and algorithms.
+- 🔭 Completed over 500 challenging problem-solving questions, showcasing exceptional analytical and logical abilities.
+- 🔭 Proficient in mobile application development using Flutter, having successfully delivered numerous user-friendly applications.
+- 👯 Demonstrates versatility by being familiar with multiple programming languages..
  
      
-     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vidita-bit&theme=dracula" /> <br><br>
-<!--      <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=vidita-bit&layout=compact&theme=dracula&count_private=true&langs_count=10" /> -->
+<!--      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vidita-bit&theme=dracula" /> <br><br>
+     <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=vidita-bit&layout=compact&theme=dracula&count_private=true&langs_count=10" /> -->
 
    <br>
 
@@ -40,7 +40,7 @@ I’m an Open-Source enthusiast & pursuing my Bachelors in Electronics and Commu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>.
 
-- <img src="https://github-readme-stats.vercel.app/api?username=vidita-bit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=vidita-bit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 
 #### ✨ [Skyline View](https://skyline.github.com/vidita-bit/2021)
  <!--
